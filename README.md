@@ -42,3 +42,6 @@ Router0(config-if)# no shutdown
 Router0(config-if)# exit
 
 Router0# copy running-config startup-config
+
+## Verification & Testing
+To confirm connectivity across subnets, ping tests were conducted from a host in the Accounts subnet (192.168.40.0/25) targeting the gateway and hosts in the Delivery subnet (192.168.40.128/25).
