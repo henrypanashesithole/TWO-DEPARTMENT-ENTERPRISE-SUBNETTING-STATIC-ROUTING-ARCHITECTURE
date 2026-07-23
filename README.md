@@ -11,7 +11,7 @@ This project demonstrates the design and step-by-step configuration of a departm
 ---
 
 ## Network Topology
-![Network Topology](topology_diagram.png)
+![Network Topology]
 
 ### Addressing Table
 | Device | Interface | IP Address | Subnet Mask | Subnet Prefix | Assigned Department |
